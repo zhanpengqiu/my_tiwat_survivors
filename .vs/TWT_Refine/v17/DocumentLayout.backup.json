@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Task\\TWT_Refine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Role.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Role.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\PlayerList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\PlayerList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\EnemyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\EnemyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\EnemyList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\EnemyList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\uiUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\uiUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\uiUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\uiUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\PlayerList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\PlayerList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\role\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:role\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|D:\\Desktop\\Task\\TWT_Refine\\config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA001BD1-5D87-4214-B5E7-75845253240D}|TWT_Refine.vcxproj|solutionrelative:config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "uiUtil.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\uiUtil.h",
+              "RelativeDocumentMoniker": "role\\uiUtil.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\uiUtil.h",
+              "RelativeToolTip": "role\\uiUtil.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:45:53.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Player.cpp",
+              "RelativeDocumentMoniker": "role\\Player.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Player.cpp",
+              "RelativeToolTip": "role\\Player.cpp",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T14:13:09.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\ui.cpp",
+              "RelativeDocumentMoniker": "role\\ui.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\ui.cpp",
+              "RelativeToolTip": "role\\ui.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T14:58:45.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Player.h",
+              "RelativeDocumentMoniker": "role\\Player.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Player.h",
+              "RelativeToolTip": "role\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:09:44.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "uiUtil.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\uiUtil.cpp",
+              "RelativeDocumentMoniker": "role\\uiUtil.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\uiUtil.cpp",
+              "RelativeToolTip": "role\\uiUtil.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T14:55:51.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ui.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\ui.h",
+              "RelativeDocumentMoniker": "role\\ui.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\ui.h",
+              "RelativeToolTip": "role\\ui.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:46:04.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Collision.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Collision.cpp",
+              "RelativeDocumentMoniker": "role\\Collision.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Collision.cpp",
+              "RelativeToolTip": "role\\Collision.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T14:43:03.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyList.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\EnemyList.cpp",
+              "RelativeDocumentMoniker": "role\\EnemyList.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\EnemyList.cpp",
+              "RelativeToolTip": "role\\EnemyList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T13:03:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Enemy.cpp",
+              "RelativeDocumentMoniker": "role\\Enemy.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Enemy.cpp",
+              "RelativeToolTip": "role\\Enemy.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T13:01:14.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyList.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\EnemyList.h",
+              "RelativeDocumentMoniker": "role\\EnemyList.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\EnemyList.h",
+              "RelativeToolTip": "role\\EnemyList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:37:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Collision.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Collision.h",
+              "RelativeDocumentMoniker": "role\\Collision.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Collision.h",
+              "RelativeToolTip": "role\\Collision.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:37:05.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Enemy.h",
+              "RelativeDocumentMoniker": "role\\Enemy.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Enemy.h",
+              "RelativeToolTip": "role\\Enemy.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:36:44.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Weapon.cpp",
+              "RelativeDocumentMoniker": "role\\Weapon.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Weapon.cpp",
+              "RelativeToolTip": "role\\Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T14:34:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Weapon.h",
+              "RelativeDocumentMoniker": "role\\Weapon.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Weapon.h",
+              "RelativeToolTip": "role\\Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:27:50.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Role.h",
+              "RelativeDocumentMoniker": "role\\Role.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Role.h",
+              "RelativeToolTip": "role\\Role.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T13:35:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "config.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\config.h",
+              "RelativeDocumentMoniker": "role\\config.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\config.h",
+              "RelativeToolTip": "role\\config.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T14:16:04.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerList.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\PlayerList.cpp",
+              "RelativeDocumentMoniker": "role\\PlayerList.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\PlayerList.cpp",
+              "RelativeToolTip": "role\\PlayerList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T13:37:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerList.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\PlayerList.h",
+              "RelativeDocumentMoniker": "role\\PlayerList.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\PlayerList.h",
+              "RelativeToolTip": "role\\PlayerList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T13:03:57.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T14:02:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Animation.cpp",
+              "RelativeDocumentMoniker": "role\\Animation.cpp",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Animation.cpp",
+              "RelativeToolTip": "role\\Animation.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T14:04:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "config.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\config.h",
+              "RelativeDocumentMoniker": "config.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\config.h",
+              "RelativeToolTip": "config.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T13:44:16.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animation.h",
+              "DocumentMoniker": "D:\\Desktop\\Task\\TWT_Refine\\role\\Animation.h",
+              "RelativeDocumentMoniker": "role\\Animation.h",
+              "ToolTip": "D:\\Desktop\\Task\\TWT_Refine\\role\\Animation.h",
+              "RelativeToolTip": "role\\Animation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T13:42:06.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
